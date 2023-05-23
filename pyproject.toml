@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.11"
 faker = "^18.3.1"
 pygithub = "^1.58.1"
-requests = "^2.28.2"
+requests = "^2.31.0"
 
 [tool.poetry.group.dev.dependencies]
 autopep8 = "^2.0.2"
